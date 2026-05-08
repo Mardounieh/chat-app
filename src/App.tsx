@@ -11,7 +11,7 @@ function App() {
     document.documentElement.lang = i18n.language;
   }, [i18n.language]);
 
-  return <div></div>;
+  return <div>Hello world</div>;
 }
 
 export default App;

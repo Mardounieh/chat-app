@@ -28,15 +28,15 @@ A modern real-time chat application built with React, TypeScript, and Socket.IO.
 - 🎨 Modern UI with Tailwind CSS & Radix UI
 - 🔔 Toast notifications for errors and events
 - 🧪 Form validation with Zod
+- 📎 File sharing (images, documents)
+- 📅 Message history & scroll pagination
+- 👤 User profiles & avatars
+- 💬 Group chats & channels
 
 ### Phase 2 (Planned)
 - 🌐 Persian (Farsi) language support (RTL)
-- 📎 File sharing (images, documents)
 - 🔍 Message search
-- 📅 Message history & scroll pagination
-- 👤 User profiles & avatars
 - 🚫 Block/unblock users
-- 💬 Group chats & channels
 - 🔒 End-to-end encryption
 
 ## Getting Started
